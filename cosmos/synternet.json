@@ -39,7 +39,7 @@
   "rpc": "https://rpc.synternet.com",
   "nodeProvider": {
     "name": "Synternet",
-    "email": "contact@synternet.com",
+    "email": "info@synternet.com",
     "website": "https://synternet.com/"
   },
   "stakeCurrency": {
